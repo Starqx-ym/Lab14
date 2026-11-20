@@ -1,0 +1,11 @@
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Domain\bin\Debug\net10.0\Lab13.Domain.deps.json
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Domain\bin\Debug\net10.0\Lab13.Domain.dll
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Domain\bin\Debug\net10.0\Lab13.Domain.pdb
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Domain\obj\Debug\net10.0\Lab13.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Domain\obj\Debug\net10.0\Lab13.Domain.AssemblyInfoInputs.cache
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Domain\obj\Debug\net10.0\Lab13.Domain.AssemblyInfo.cs
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Domain\obj\Debug\net10.0\Lab13.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Domain\obj\Debug\net10.0\Lab13.Domain.dll
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Domain\obj\Debug\net10.0\refint\Lab13.Domain.dll
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Domain\obj\Debug\net10.0\Lab13.Domain.pdb
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Domain\obj\Debug\net10.0\ref\Lab13.Domain.dll

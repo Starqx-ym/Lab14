@@ -1,0 +1,15 @@
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Application\bin\Debug\net10.0\Lab13.Application.deps.json
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Application\bin\Debug\net10.0\Lab13.Application.dll
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Application\bin\Debug\net10.0\Lab13.Application.pdb
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Application\bin\Debug\net10.0\Lab13.Domain.dll
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Application\bin\Debug\net10.0\Lab13.Domain.pdb
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Application\obj\Debug\net10.0\Lab13.Application.csproj.AssemblyReference.cache
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Application\obj\Debug\net10.0\Lab13.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Application\obj\Debug\net10.0\Lab13.Application.AssemblyInfoInputs.cache
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Application\obj\Debug\net10.0\Lab13.Application.AssemblyInfo.cs
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Application\obj\Debug\net10.0\Lab13.Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Application\obj\Debug\net10.0\Lab13.Ap.43075457.Up2Date
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Application\obj\Debug\net10.0\Lab13.Application.dll
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Application\obj\Debug\net10.0\refint\Lab13.Application.dll
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Application\obj\Debug\net10.0\Lab13.Application.pdb
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Application\obj\Debug\net10.0\ref\Lab13.Application.dll

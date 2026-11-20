@@ -1,0 +1,17 @@
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\bin\Debug\net10.0\Lab13.Infrastructure.deps.json
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\bin\Debug\net10.0\Lab13.Infrastructure.dll
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\bin\Debug\net10.0\Lab13.Infrastructure.pdb
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\bin\Debug\net10.0\Lab13.Application.dll
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\bin\Debug\net10.0\Lab13.Domain.dll
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\bin\Debug\net10.0\Lab13.Application.pdb
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\bin\Debug\net10.0\Lab13.Domain.pdb
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\obj\Debug\net10.0\Lab13.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\obj\Debug\net10.0\Lab13.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\obj\Debug\net10.0\Lab13.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\obj\Debug\net10.0\Lab13.Infrastructure.AssemblyInfo.cs
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\obj\Debug\net10.0\Lab13.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\obj\Debug\net10.0\Lab13.In.A9FD11F4.Up2Date
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\obj\Debug\net10.0\Lab13.Infrastructure.dll
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\obj\Debug\net10.0\refint\Lab13.Infrastructure.dll
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\obj\Debug\net10.0\Lab13.Infrastructure.pdb
+C:\Users\ASUS\RiderProjects\Lab13-YadhiraCcori\Lab13.API\Lab13.Infrastructure\obj\Debug\net10.0\ref\Lab13.Infrastructure.dll
